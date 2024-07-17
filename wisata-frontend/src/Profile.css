@@ -1,0 +1,17 @@
+/* Profile.css */
+.profile-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 5px solid #fff;
+    box-shadow: 0 0 15px rgba(80, 51, 210, 0.1);
+}
+
+.social-link {
+    color: #007bff;
+    transition: color 0.3s ease;
+}
+
+.social-link:hover {
+    color: #007bff; /* Warna saat hover */
+}
